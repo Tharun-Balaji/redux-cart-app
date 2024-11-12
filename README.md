@@ -87,5 +87,5 @@ This app uses the Fake Store API for product data. You can check out the API doc
 
 ## 📬 Contact
 
-Feel free to reach out for questions or collaboration via [your-email@example.com](mailto:your-email@example.com).
+Feel free to reach out for questions or collaboration via [tharunbalaji110@gmail.com](mailto:tharunbalaji110@gmail.com).
 
